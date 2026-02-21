@@ -21,5 +21,4 @@
 - MySQL8.0.26
   
 **ER図**
-![alt](erd.png)
-<img width="791" height="226" alt="index" src="https://github.com/user-attachments/assets/161a4a1c-6d73-4c88-bd8e-b5ddb8fd44d4" />
+<img width="811" height="381" alt="index drawio" src="https://github.com/user-attachments/assets/afc61164-904f-488a-8336-901e9535e146" />
